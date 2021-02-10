@@ -1,1 +1,3 @@
-morrowtech.us
+type = CNAME
+name = www
+value = jrmorrow2.github.io
