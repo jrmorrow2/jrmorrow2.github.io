@@ -14,10 +14,27 @@
 	color: #ffce00;
 	background-color: #484d5c;
 }
-.body{
-	text-align: left;
+.list1{
+	text-align: center;
+    list-style-position: inside;
+	text-align: center;
 	font-family: 'Cardo', serif;
 	font-size: 16;
-	color: #c0ccd4;
+}
+.body{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 16;
+	color: #ffce00;
 	background-color: #484d5c;
 }
+.button{
+	border: border: 2px solid #ffce00;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-size: 20 px;
+	color: #ffce00;
+	background-color: #484d5c;
+}
+
